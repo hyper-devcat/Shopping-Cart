@@ -1,0 +1,12 @@
+{
+  "name": "front-test_mdm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "json-server --watch db.json"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
